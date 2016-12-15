@@ -1,0 +1,20 @@
+{
+  "name": "bttree/yupe-sypexgeo",
+  "description": "sypexgeo yupe module",
+  "keywords": [
+    "yii",
+    "yii1",
+    "sypexgeo",
+    "sxgeo"
+  ],
+  "homepage": "https://github.com/bttree/yupe-sypexgeo",
+  "type": "yii-module",
+  "license": "BSD-3",
+  "authors": [
+    {
+      "name": "SiteMaket",
+      "email": "x525vx@gmail.com",
+      "homepage": "http://sitemaket.ru"
+    }
+  ]
+}
