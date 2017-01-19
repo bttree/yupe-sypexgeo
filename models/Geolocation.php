@@ -18,7 +18,7 @@ class Geolocation extends CModel
 
         $SxGeo = new SxGeo(__DIR__ .'/../components/SxGeoCity.dat');
 
-        return $SxGeo->getCityFull("93.153.230.53");
+        return $SxGeo->getCityFull($ip);
     }
 
     /**
